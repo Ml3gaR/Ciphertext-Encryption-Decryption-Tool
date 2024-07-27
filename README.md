@@ -1,18 +1,13 @@
 Readme File
 
 Encryption / Decryption Software tool
-
-======================================================================================================================================================================================================================
 Description:
 This tool uses multiple encryption and decryption algorithms. - 
 Encryption algorithms used are useful to protect private and senstive information and to preserve confidentiality. -
 Decryption algorithms are useful to either convert data to its original form, or to try to find meaning from encrypted data. - 
 The main goal of this software is to grant the user different encryption/decryption algorithms that user can choose from with different levels of confusion and difusion which can be both educative and interactive.
-======================================================================================================================================================================================================================
 
-================================================================
 Algorithms used:
-
 This tool uses the following algorithms to encrypt plaintexts:
 - Monoalphabetic Substitution
 - Playfair
@@ -25,16 +20,13 @@ This tool uses the following algorithms to decrypt ciphertexts:
 - Monoalphabetic Substitution
 - Playfair
 - Frequency Analysis
-================================================================
 
-===============================================================================================================================
+
 How to run the tool:
 To start using the tool, The user must first go to App.java class found in the src file and start the program using CTRL + F11.
-===============================================================================================================================
 
-====================================================================================================================================================================================================================================================================================================================================
+
 How to use the tool:
-
 After the user has started the software, the user is given three choices: 1- Encryption 2- Decryption 3- Quit 
 
 To use monoalphabetic substitution encryption the user must enter: " 1 " then " 1 " then the user must enter a string plaintext as input to be encrypted. 
